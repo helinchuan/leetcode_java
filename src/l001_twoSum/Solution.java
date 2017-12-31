@@ -40,6 +40,7 @@ public class Solution {
 		// 用于保存返回结果
 		int[] result = { 0, 0 };
 
+		
 		// 创建辅助数组
 		Node[] tmp = new Node[nums.length];
 		for (int i = 0; i < nums.length; i++) {
